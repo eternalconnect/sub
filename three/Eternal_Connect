@@ -1,39 +1,39 @@
-trojan://f282b878-8711-45a1-8c69-5564172123c1@104.21.72.109:443?path=%2Ftelegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect&security=tls&host=vpn.stupidworld.web.id&type=ws&sni=vpn.stupidworld.web.id#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://7d645ab8-e8e5-4810-ae5f-4bd6659ac42c@ir.fxgoldensignals.com:8081?security=&encryption=none&host=zula.ir&headerType=http&type=tcp#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@5.181.171.10:443?security=reality&encryption=none&pbk=YNGotlyAx3ELUmi4lxOUjiEDmibqf1pPUTE9o3YYT2Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://401374e6-df77-41fb-f638-dad8184f175b@104.26.2.186:443?mode=gun&security=tls&encryption=none&type=grpc&sni=pqh31v7.hiddendom.shop#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://0e8a6896-ad90-4a3b-89a3-77d64aa409e2@ilta-wzxrxkdhbjpnprhkkpplsjwawhssvollvxzdhqshiqckwdgrdm.orbnet.xyz:443?security=reality&encryption=none&pbk=YVDo7U4O-AT2fa5H9E7hyYHKgfZd1vB6UdbAf2ggWQE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=i2pd.website&sid=55e6af1a35e64a98#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://0667820d-f8a9-4652-a3b9-efadc06af433@162.159.152.155:443?path=%2Ftelegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@103.133.1.227:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh24v3.hiddendom.shop#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129823158.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.92:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129810487.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0dkhHaGVXd1M2MVFlS29GUnRaVnM2@194.87.45.189:443#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342843836.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.203.139:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v5.hiddendom.shop#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206NUNYNWRGUnpRMjlYMUNUeEhDL3ZzQjM1aTdsTGU4MkhlbG9aM0xCQmJSdz06bFZXRDVqd0swWjJyN1NvZFBYNDFnaXViUGFEaTRJcmdrVGZRK2VqVWFGdz0%3D@adas-polo-ba-mahi.kotlet.org:2053#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510378519565.mashhad-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://3691b39b-4aa7-4f68-8304-902e4734e2f4@45.128.232.102:16798?security=reality&encryption=none&pbk=UGm82qoVVxxTkwGLniA8C004EYPW52VG7GmdgHzwSXU&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=229b2a94#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://963816bd-b6e7-4648-abff-8af25bc07d87@104.16.3.5:443?path=%2Ftelegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect&security=tls&alpn=http%2F1.1&encryption=none&host=gulf-d96.pages.dev&fp=chrome&type=ws&sni=gulf-d96.pages.dev#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvMzh5dXZ6U2UzbTVhRE5wSHRVUEgxekd3YkdFWFhNRHNHd1ZhdWIyU1lFbUhVYTJXR1pVamllelgzVnZ2YTlDQ3pwanhZdHVKTGdLc1Nuc3lLQmY5Y2lQVmJhM3k0bzM%3D@beta.mattenadene.org:54075#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638943929060330315.warsaw-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&authority=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.86.72.106:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638942912656604786.malayer-prx-dnraacm.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@185.236.232.240:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638937544595891094.madrid-prx-dnraacl.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.188:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638950280342832628.esfahan-drc-tusaas.info:8880?mode=gun&security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh29v4.vetmainconf.shop:8880?mode=gun&security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638944900760751746.hamedan-prx-dnraacp.info:8880?mode=gun&security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://49ed01ad-3bb4-204f-b0ff-a58f658fd618@103.175.79.10:443?security=reality&encryption=none&pbk=4e-unF1RO2v--E7-X3aqxnCSPaK9QaTfJ7LawAr2bRI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=speed.cloudflare.com#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://29187857-4a1f-4d1e-88eb-0016771e0dbb@104.18.85.29:443?path=%2Ftelegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect%20-%20telegram%3A%20%40Eternal_Connect&security=tls&alpn=h3&encryption=none&host=sni.aizrf.com&fp=random&type=ws&sni=sni.aizrf.com#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@102.177.189.251:443?mode=gun&security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh23v4.hiddendom.shop#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638948510129819106.dezful-drc-tusaas.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@45.82.251.97:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441853305.malayer-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://401374e6-df77-41fb-f638-dad8184f175b@141.11.202.193:443?security=tls&alpn=h2&encryption=none&type=grpc&sni=pqh36v4.hiddendom.shop#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638947655441857235.malayer-drc-tusacaf.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh30v8.waipdirect.shop:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638939927968108687.dublin-drc-tusaas.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@pqh25v7.waipdirect.shop:8880?mode=gun&security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
+vless://df0680ca-e43c-498d-ed86-8e196eedd012@638946366858945512.rome-prx-dnraacq.info:8880?security=&encryption=none&type=grpc#T.ME%2FEternal_Connect%20%7C%20%F0%9F%8C%8D
